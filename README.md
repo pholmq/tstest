@@ -5,6 +5,8 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB.svg?logo=react&logoColor=black)
 ![Three.js](https://img.shields.io/badge/Three.js-r162-black.svg?logo=three.js&logoColor=white)
 
+Experimental brach to test Jean Meeus' Astronomical Algorithms for Tychosium
+
 **The Tychosium** is an interactive 3D astronomical simulation implementing the **TYCHOS model** of our solar system. It offers a unique perspective on celestial mechanics, featuring real-time orbital calculations, a comprehensive star catalog, and immersive visualization.
 
 Built with modern web technologies to ensure performance and accuracy, this project aims to visualize the binary solar system concepts proposed by the Tychos model.
